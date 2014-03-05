@@ -44,6 +44,7 @@ public class GroupPlaying {
         B.name = "B";
         C.name = "C";
 
+
         //всего должно быть 18 матчей
         Match m[] = new Match[18];
         //составим расписание матчей по умолчанию
